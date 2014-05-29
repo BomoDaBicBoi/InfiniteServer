@@ -1,0 +1,93 @@
+
+Error: ENOENT, open 'C:\Users\Allen\Desktop\Game Related\Pokemon-Showdown\5_28_2014_ServerBackup\logs\modlog\modlog_lobby.txt'
+
+Error: ENOENT, open 'C:\Users\Allen\Desktop\Game Related\Pokemon-Showdown\5_28_2014_ServerBackup\logs\modlog\modlog_battle.txt'
+
+TypeError: Cannot read property 'root' of undefined
+    at User.can (C:\Users\Allen\Desktop\Game Related\Pokemon-Showdown\5_28_2014_ServerBackup\users.js:368:16)
+    at Object.exports.commands.query (C:\Users\Allen\Desktop\Game Related\Pokemon-Showdown\5_28_2014_ServerBackup\commands.js:1773:13)
+    at Object.exports.parse (C:\Users\Allen\Desktop\Game Related\Pokemon-Showdown\5_28_2014_ServerBackup\command-parser.js:215:31)
+    at ChatRoom.chat (C:\Users\Allen\Desktop\Game Related\Pokemon-Showdown\5_28_2014_ServerBackup\rooms.js:1499:27)
+    at User.chat (C:\Users\Allen\Desktop\Game Related\Pokemon-Showdown\5_28_2014_ServerBackup\users.js:1278:9)
+    at Object.socketReceive (C:\Users\Allen\Desktop\Game Related\Pokemon-Showdown\5_28_2014_ServerBackup\users.js:211:12)
+    at EventEmitter.<anonymous> (C:\Users\Allen\Desktop\Game Related\Pokemon-Showdown\5_28_2014_ServerBackup\sockets.js:47:11)
+    at EventEmitter.emit (events.js:95:17)
+    at processImmediate [as _immediateCallback] (timers.js:330:15)
+
+TypeError: Cannot read property 'root' of undefined
+    at User.can (C:\Users\Allen\Desktop\Game Related\Pokemon-Showdown\5_28_2014_ServerBackup\users.js:368:16)
+    at Object.exports.commands.query (C:\Users\Allen\Desktop\Game Related\Pokemon-Showdown\5_28_2014_ServerBackup\commands.js:1773:13)
+    at Object.exports.parse (C:\Users\Allen\Desktop\Game Related\Pokemon-Showdown\5_28_2014_ServerBackup\command-parser.js:215:31)
+    at ChatRoom.chat (C:\Users\Allen\Desktop\Game Related\Pokemon-Showdown\5_28_2014_ServerBackup\rooms.js:1499:27)
+    at User.chat (C:\Users\Allen\Desktop\Game Related\Pokemon-Showdown\5_28_2014_ServerBackup\users.js:1278:9)
+    at Object.socketReceive (C:\Users\Allen\Desktop\Game Related\Pokemon-Showdown\5_28_2014_ServerBackup\users.js:211:12)
+    at EventEmitter.<anonymous> (C:\Users\Allen\Desktop\Game Related\Pokemon-Showdown\5_28_2014_ServerBackup\sockets.js:47:11)
+    at EventEmitter.emit (events.js:95:17)
+    at processImmediate [as _immediateCallback] (timers.js:330:15)
+
+TypeError: Cannot read property 'root' of undefined
+    at User.can (C:\Users\Allen\Desktop\Game Related\Pokemon-Showdown\5_28_2014_ServerBackup\users.js:368:16)
+    at Object.exports.commands.query (C:\Users\Allen\Desktop\Game Related\Pokemon-Showdown\5_28_2014_ServerBackup\commands.js:1773:13)
+    at Object.exports.parse (C:\Users\Allen\Desktop\Game Related\Pokemon-Showdown\5_28_2014_ServerBackup\command-parser.js:215:31)
+    at ChatRoom.chat (C:\Users\Allen\Desktop\Game Related\Pokemon-Showdown\5_28_2014_ServerBackup\rooms.js:1499:27)
+    at User.chat (C:\Users\Allen\Desktop\Game Related\Pokemon-Showdown\5_28_2014_ServerBackup\users.js:1278:9)
+    at Object.socketReceive (C:\Users\Allen\Desktop\Game Related\Pokemon-Showdown\5_28_2014_ServerBackup\users.js:211:12)
+    at EventEmitter.<anonymous> (C:\Users\Allen\Desktop\Game Related\Pokemon-Showdown\5_28_2014_ServerBackup\sockets.js:47:11)
+    at EventEmitter.emit (events.js:95:17)
+    at processImmediate [as _immediateCallback] (timers.js:330:15)
+
+TypeError: Cannot read property 'root' of undefined
+    at User.can (C:\Users\Allen\Desktop\Game Related\Pokemon-Showdown\5_28_2014_ServerBackup\users.js:368:16)
+    at Object.exports.commands.query (C:\Users\Allen\Desktop\Game Related\Pokemon-Showdown\5_28_2014_ServerBackup\commands.js:1773:13)
+    at Object.exports.parse (C:\Users\Allen\Desktop\Game Related\Pokemon-Showdown\5_28_2014_ServerBackup\command-parser.js:215:31)
+    at ChatRoom.chat (C:\Users\Allen\Desktop\Game Related\Pokemon-Showdown\5_28_2014_ServerBackup\rooms.js:1499:27)
+    at User.chat (C:\Users\Allen\Desktop\Game Related\Pokemon-Showdown\5_28_2014_ServerBackup\users.js:1278:9)
+    at Object.socketReceive (C:\Users\Allen\Desktop\Game Related\Pokemon-Showdown\5_28_2014_ServerBackup\users.js:211:12)
+    at EventEmitter.<anonymous> (C:\Users\Allen\Desktop\Game Related\Pokemon-Showdown\5_28_2014_ServerBackup\sockets.js:47:11)
+    at EventEmitter.emit (events.js:95:17)
+    at processImmediate [as _immediateCallback] (timers.js:330:15)
+
+TypeError: Cannot read property 'root' of undefined
+    at User.can (C:\Users\Allen\Desktop\Game Related\Pokemon-Showdown\5_28_2014_ServerBackup\users.js:368:16)
+    at Object.exports.commands.query (C:\Users\Allen\Desktop\Game Related\Pokemon-Showdown\5_28_2014_ServerBackup\commands.js:1773:13)
+    at Object.exports.parse (C:\Users\Allen\Desktop\Game Related\Pokemon-Showdown\5_28_2014_ServerBackup\command-parser.js:215:31)
+    at ChatRoom.chat (C:\Users\Allen\Desktop\Game Related\Pokemon-Showdown\5_28_2014_ServerBackup\rooms.js:1499:27)
+    at User.chat (C:\Users\Allen\Desktop\Game Related\Pokemon-Showdown\5_28_2014_ServerBackup\users.js:1278:9)
+    at Object.socketReceive (C:\Users\Allen\Desktop\Game Related\Pokemon-Showdown\5_28_2014_ServerBackup\users.js:211:12)
+    at EventEmitter.<anonymous> (C:\Users\Allen\Desktop\Game Related\Pokemon-Showdown\5_28_2014_ServerBackup\sockets.js:47:11)
+    at EventEmitter.emit (events.js:95:17)
+    at processImmediate [as _immediateCallback] (timers.js:330:15)
+
+TypeError: Cannot read property 'root' of undefined
+    at User.can (C:\Users\Allen\Desktop\Game Related\Pokemon-Showdown\5_28_2014_ServerBackup\users.js:368:16)
+    at Object.exports.commands.query (C:\Users\Allen\Desktop\Game Related\Pokemon-Showdown\5_28_2014_ServerBackup\commands.js:1773:13)
+    at Object.exports.parse (C:\Users\Allen\Desktop\Game Related\Pokemon-Showdown\5_28_2014_ServerBackup\command-parser.js:215:31)
+    at ChatRoom.chat (C:\Users\Allen\Desktop\Game Related\Pokemon-Showdown\5_28_2014_ServerBackup\rooms.js:1499:27)
+    at User.chat (C:\Users\Allen\Desktop\Game Related\Pokemon-Showdown\5_28_2014_ServerBackup\users.js:1278:9)
+    at Object.socketReceive (C:\Users\Allen\Desktop\Game Related\Pokemon-Showdown\5_28_2014_ServerBackup\users.js:211:12)
+    at EventEmitter.<anonymous> (C:\Users\Allen\Desktop\Game Related\Pokemon-Showdown\5_28_2014_ServerBackup\sockets.js:47:11)
+    at EventEmitter.emit (events.js:95:17)
+    at processImmediate [as _immediateCallback] (timers.js:330:15)
+
+TypeError: Cannot read property 'root' of undefined
+    at User.can (C:\Users\Allen\Desktop\Game Related\Pokemon-Showdown\5_28_2014_ServerBackup\users.js:368:16)
+    at Object.exports.commands.query (C:\Users\Allen\Desktop\Game Related\Pokemon-Showdown\5_28_2014_ServerBackup\commands.js:1773:13)
+    at Object.exports.parse (C:\Users\Allen\Desktop\Game Related\Pokemon-Showdown\5_28_2014_ServerBackup\command-parser.js:215:31)
+    at ChatRoom.chat (C:\Users\Allen\Desktop\Game Related\Pokemon-Showdown\5_28_2014_ServerBackup\rooms.js:1499:27)
+    at User.chat (C:\Users\Allen\Desktop\Game Related\Pokemon-Showdown\5_28_2014_ServerBackup\users.js:1278:9)
+    at Object.socketReceive (C:\Users\Allen\Desktop\Game Related\Pokemon-Showdown\5_28_2014_ServerBackup\users.js:211:12)
+    at EventEmitter.<anonymous> (C:\Users\Allen\Desktop\Game Related\Pokemon-Showdown\5_28_2014_ServerBackup\sockets.js:47:11)
+    at EventEmitter.emit (events.js:95:17)
+    at processImmediate [as _immediateCallback] (timers.js:330:15)
+
+TypeError: Cannot read property 'root' of undefined
+    at User.can (C:\Users\Allen\Desktop\Game Related\Pokemon-Showdown\5_28_2014_ServerBackup\users.js:368:16)
+    at User.canPromote (C:\Users\Allen\Desktop\Game Related\Pokemon-Showdown\5_28_2014_ServerBackup\users.js:470:15)
+    at Object.exports.commands.promote (C:\Users\Allen\Desktop\Game Related\Pokemon-Showdown\5_28_2014_ServerBackup\commands.js:817:13)
+    at Object.exports.parse (C:\Users\Allen\Desktop\Game Related\Pokemon-Showdown\5_28_2014_ServerBackup\command-parser.js:215:31)
+    at ChatRoom.chat (C:\Users\Allen\Desktop\Game Related\Pokemon-Showdown\5_28_2014_ServerBackup\rooms.js:1499:27)
+    at User.chat (C:\Users\Allen\Desktop\Game Related\Pokemon-Showdown\5_28_2014_ServerBackup\users.js:1300:9)
+    at Object.socketReceive (C:\Users\Allen\Desktop\Game Related\Pokemon-Showdown\5_28_2014_ServerBackup\users.js:211:12)
+    at EventEmitter.<anonymous> (C:\Users\Allen\Desktop\Game Related\Pokemon-Showdown\5_28_2014_ServerBackup\sockets.js:47:11)
+    at EventEmitter.emit (events.js:95:17)
+    at processImmediate [as _immediateCallback] (timers.js:330:15)
